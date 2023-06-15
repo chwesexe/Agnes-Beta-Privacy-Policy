@@ -4,6 +4,6 @@
 
 3-) Verileriniz, erişimi şifreleme ile kısıtlanmış bir veritabanında tutulur. Sorularınız için bot geliştiricileri ile iletişime geçebilirsiniz. https://discord.gg/ab5HJXq72k
 
-4-) – Kişisel verilerin eksik veya yanlış işlenmesi halinde düzeltilmesini isteme – Kişisel verilerin silinmesini veya yok edilmesini talep etme
+4-) Kişisel verilerin eksik veya yanlış işlenmesi halinde düzeltilmesini isteme – Kişisel verilerin silinmesini veya yok edilmesini talep etme
 
 5-) Hiçbir çekinme duymadan [https://discord.gg/SY7aMsVpUJ](https://discord.gg/ab5HJXq72k) destek sunucusuna gelip soru sorabilirsiniz.
